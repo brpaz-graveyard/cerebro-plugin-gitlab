@@ -14,7 +14,7 @@ const buildMainMenu = (icon, settings, actions) => {
       }
     },
     {
-      title: 'My Gruops',
+      title: 'My Groups',
       subtitle: 'List my groups',
       icon: icon,
       term: `${Constants.PLUGIN_KEYWORD} ${Constants.PLUGIN_TERM_GROUPS}`,
